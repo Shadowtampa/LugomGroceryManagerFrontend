@@ -1,37 +1,37 @@
-# Gerenciador de Despensa
+# 🏪 Gerenciador de Despensa
 
 Um sistema web para gerenciamento de produtos, inventário e lista de compras.
 
-## Funcionalidades
+## ✨ Funcionalidades
 
-### Dashboard
+### 📊 Dashboard
 - Visão geral do sistema
 - Estatísticas e métricas importantes
 - Acesso rápido às principais funcionalidades
 
-### Produtos
+### 📦 Produtos
 - Cadastro e gerenciamento de produtos
 - Categorização de produtos
 - Histórico de preços
 
-### Inventário
+### 📋 Inventário
 - Controle de estoque
 - Acompanhamento de produtos disponíveis
 - Gestão de validade e quantidade
 
-### Lista de Compras
+### 🛒 Lista de Compras
 - Criação de listas de compras
 - Organização por categorias
 - Acompanhamento de compras realizadas
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-- React
-- CoreUI
-- React Router
-- Chart.js
+- ⚛️ React
+- 🎨 CoreUI
+- 🔄 React Router
+- 📈 Chart.js
 
-## Instalação
+## 🚀 Instalação
 
 1. Clone o repositório
 ```bash
@@ -48,7 +48,7 @@ npm install
 npm start
 ```
 
-## Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 O projeto está organizado nas seguintes seções principais:
 
@@ -57,7 +57,7 @@ O projeto está organizado nas seguintes seções principais:
 - `/inventario` - Controle de estoque
 - `/lista-compras` - Gerenciamento de listas de compras
 
-## Contribuição
+## 🤝 Contribuição
 
 1. Faça um Fork do projeto
 2. Crie uma Branch para sua Feature (`git checkout -b feature/AmazingFeature`)
@@ -65,6 +65,6 @@ O projeto está organizado nas seguintes seções principais:
 4. Push para a Branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## Licença
+## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
